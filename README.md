@@ -1,6 +1,6 @@
 <h1><code>Module 323</code> - Programmer de manière fonctionnelle</h1>
 
-# 😅 Exercice XX - Entraînement à map().filter().reduce() - Solution
+# 😅 Exercice XX - Entraînement à map().filter().reduce()
 
 ## Objectifs
 
