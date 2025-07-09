@@ -1,6 +1,6 @@
 <h1><code>Module 323</code> - Programmer de manière fonctionnelle</h1>
 
-# 😅 Exercice Drill B - Entraînement à map().filter().reduce()
+# 😅 Exercice Drill N°11
 
 ## Objectifs
 
@@ -8,7 +8,7 @@
 
 ## Rapports à produire
 
-Dans le fichier [ex04-data.js](/src/ex04-data.js) vous disposez, directement au format JSON, d'une extraction d'**un grand nombre de notes d'une base de données des notes d'un établissement scolaire**.
+Dans le fichier [ex11-data.js](/src/ex11-data.js) vous disposez, directement au format JSON, d'une extraction d'**un grand nombre de notes d'une base de données des notes d'un établissement scolaire**.
 
 Vous allez devoir filtrer, réduire et ne prendre que la partie nécessaire de ces données qui correspondent à une liste de demandes spécifiques.
 
